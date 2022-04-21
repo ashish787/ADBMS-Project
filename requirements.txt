@@ -1,0 +1,17 @@
+cs50
+Flask
+Flask-Session
+requests
+tempfile
+werkzeug
+pandas
+numpy
+datetime
+yfinance
+pandas_datareader
+matplotlib
+functools
+os
+urllib
+lxml
+gunicorn
