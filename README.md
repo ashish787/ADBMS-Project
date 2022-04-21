@@ -11,5 +11,5 @@ For our semester-end project, we have created a web application to manage portfo
 7. Change Password - feature which lets the user change password in case they forget
 8. Add Cash - lets the user add extra funds to their portfolio 
 
-# Web App
+# Web App 🖥️
 We have deployed the web app using Heroku, and it can be accessed [here](https://grow-more-stock-portfolio.herokuapp.com/login).
