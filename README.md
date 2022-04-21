@@ -1,4 +1,4 @@
-# ADBMS_Project ![alt text](https://freepngimg.com/thumb/database/63586-administrator-database-computer-migration-oracle-data-software-thumb.png)
+# ADBMS Project ![alt text](https://freepngimg.com/thumb/database/63586-administrator-database-computer-migration-oracle-data-software-thumb.png)
 Group Members: Param Mehta, Ashish Nanda, Kabir Nawani and Yash Shah
 
 For our semester-end project, we have created a web application to manage portfolios of stocks. Here are some of its features: 
@@ -10,3 +10,6 @@ For our semester-end project, we have created a web application to manage portfo
 6. History - summarizes user’s transactions
 7. Change Password - feature which lets the user change password in case they forget
 8. Add Cash - lets the user add extra funds to their portfolio 
+
+# Web App
+We have deployed the web app using Heroku, and it can be accessed [here](https://grow-more-stock-portfolio.herokuapp.com/login).
