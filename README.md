@@ -1,4 +1,4 @@
-# ADBMS Project ![alt text](https://freepngimg.com/thumb/database/63586-administrator-database-computer-migration-oracle-data-software-thumb.png)
+# GrowMore 📈 ![alt text](https://freepngimg.com/thumb/database/63586-administrator-database-computer-migration-oracle-data-software-thumb.png)
 Group Members: Param Mehta, Ashish Nanda, Kabir Nawani and Yash Shah
 
 For our semester-end project, we have created a web application to manage portfolios of stocks. Here are some of its features: 
